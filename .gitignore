@@ -1,5 +1,6 @@
 # Commenting out the Google Keys
 credentials.json
+token.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
